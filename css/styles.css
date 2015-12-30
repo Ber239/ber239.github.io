@@ -1,0 +1,20 @@
+#icon {
+	margin-top:10px;
+}
+#name {
+	margin-top:10px;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-size:50px;
+    color:#B9C1BF;
+}
+#headerHr {
+	border-width: 5px;
+	border-color:#B9C1BF;
+}
+#featured {
+	color:#B9C1BF;
+}
+.works {
+    color:#B9C1BF;
+    font-weight: bolder;
+}
